@@ -7,7 +7,7 @@ Simple Hello program for Java Framework - Vaadin with Spring Boot and Maven as a
 
 ## Getting Started
 
-The _Prerequisites_ and How to _Get the Code_ can be referenced from the parent [VAADIN](https://github.com/get2mandar/codesource/best-of-hello-world/java-frameworks/vaadin) README.
+The _Prerequisites_ and How to _Get the Code_ can be referenced from the parent [VAADIN](https://github.com/get2mandar/codesource/tree/main/best-of-hello-world/java-frameworks/vaadin) README.
 
 
 ## Build & Run
